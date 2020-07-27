@@ -1,0 +1,21 @@
+/*
+ * Theme Name: Super Vegeta
+ * Text Domain: supervegeta
+ * Version: 0.1
+ * Requires at least: 4.7
+ * Requires PHP: 5.2.4
+ * Description: Simple template built from Bulma CSS Framework
+ * Tags: blog, simple
+ * Author: Ali
+ * Author URI: https://www.situsali.id
+ * Theme URL: https://github.com/situsali/vegeta.git
+ * License: MIT License
+ * License URI: https://opensource.org/licenses/MIT
+ */
+
+html,
+body {
+    border: none;
+    margin: 0;
+    padding: 0;
+}
